@@ -1,0 +1,12 @@
+/Users/matheus/Projects/Aula2_Ex10/bin/Debug/netcoreapp3.1/Aula2_Ex10.deps.json
+/Users/matheus/Projects/Aula2_Ex10/bin/Debug/netcoreapp3.1/Aula2_Ex10.runtimeconfig.json
+/Users/matheus/Projects/Aula2_Ex10/bin/Debug/netcoreapp3.1/Aula2_Ex10.runtimeconfig.dev.json
+/Users/matheus/Projects/Aula2_Ex10/bin/Debug/netcoreapp3.1/Aula2_Ex10.dll
+/Users/matheus/Projects/Aula2_Ex10/bin/Debug/netcoreapp3.1/Aula2_Ex10.pdb
+/Users/matheus/Projects/Aula2_Ex10/obj/Debug/netcoreapp3.1/Aula2_Ex10.csprojAssemblyReference.cache
+/Users/matheus/Projects/Aula2_Ex10/obj/Debug/netcoreapp3.1/Aula2_Ex10.AssemblyInfoInputs.cache
+/Users/matheus/Projects/Aula2_Ex10/obj/Debug/netcoreapp3.1/Aula2_Ex10.AssemblyInfo.cs
+/Users/matheus/Projects/Aula2_Ex10/obj/Debug/netcoreapp3.1/Aula2_Ex10.csproj.CoreCompileInputs.cache
+/Users/matheus/Projects/Aula2_Ex10/obj/Debug/netcoreapp3.1/Aula2_Ex10.dll
+/Users/matheus/Projects/Aula2_Ex10/obj/Debug/netcoreapp3.1/Aula2_Ex10.pdb
+/Users/matheus/Projects/Aula2_Ex10/obj/Debug/netcoreapp3.1/Aula2_Ex10.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/matheus/Projects/Aula2_Ex1/bin/Debug/netcoreapp3.1/Aula2_Ex1.deps.json
+/Users/matheus/Projects/Aula2_Ex1/bin/Debug/netcoreapp3.1/Aula2_Ex1.runtimeconfig.json
+/Users/matheus/Projects/Aula2_Ex1/bin/Debug/netcoreapp3.1/Aula2_Ex1.runtimeconfig.dev.json
+/Users/matheus/Projects/Aula2_Ex1/bin/Debug/netcoreapp3.1/Aula2_Ex1.dll
+/Users/matheus/Projects/Aula2_Ex1/bin/Debug/netcoreapp3.1/Aula2_Ex1.pdb
+/Users/matheus/Projects/Aula2_Ex1/obj/Debug/netcoreapp3.1/Aula2_Ex1.csprojAssemblyReference.cache
+/Users/matheus/Projects/Aula2_Ex1/obj/Debug/netcoreapp3.1/Aula2_Ex1.AssemblyInfoInputs.cache
+/Users/matheus/Projects/Aula2_Ex1/obj/Debug/netcoreapp3.1/Aula2_Ex1.AssemblyInfo.cs
+/Users/matheus/Projects/Aula2_Ex1/obj/Debug/netcoreapp3.1/Aula2_Ex1.csproj.CoreCompileInputs.cache
+/Users/matheus/Projects/Aula2_Ex1/obj/Debug/netcoreapp3.1/Aula2_Ex1.dll
+/Users/matheus/Projects/Aula2_Ex1/obj/Debug/netcoreapp3.1/Aula2_Ex1.pdb
+/Users/matheus/Projects/Aula2_Ex1/obj/Debug/netcoreapp3.1/Aula2_Ex1.genruntimeconfig.cache
